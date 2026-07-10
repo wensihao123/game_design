@@ -36,6 +36,7 @@ GameDesignDocs/
 ### 工程与架构
 
 - [如何在 Godot 中践行 SOLID 思想](engineering/architecture/solid-in-godot.md) — 把 SOLID 五原则翻译为 Godot 原生语汇（节点 / 信号 / Resource / 场景组合）
+- [Godot 模块边界精讲](engineering/architecture/module-boundaries.md) — 边界划在哪、由什么构成、如何验证；SOLID 篇的配套上游
 
 ## 约定
 
