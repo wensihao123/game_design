@@ -24,9 +24,11 @@ GameDesignDocs/
 │   ├── systems/              #   机制 / 系统 / 数值
 │   └── case-studies/         #   拆游戏的学习笔记
 ├── engineering/               # 工程与架构实践
-│   ├── architecture/         #   SOLID、模块边界、状态机
+│   ├── architecture/         #   SOLID、模块边界
+│   │   └── state-machines/   #     各类状态机的设计思想（一种一篇）
 │   ├── patterns/             #   常用模式与反模式
 │   └── godot/                #   引擎特定技巧
+│       └── pitfalls/         #     开发避坑清单（7 类）
 ├── process/                   # 工作流、工具链、协作规范
 └── inbox/                     # 未归类的灵感碎片，定期整理
 ```
@@ -37,6 +39,8 @@ GameDesignDocs/
 
 - [如何在 Godot 中践行 SOLID 思想](engineering/architecture/solid-in-godot.md) — 把 SOLID 五原则翻译为 Godot 原生语汇（节点 / 信号 / Resource / 场景组合）
 - [Godot 模块边界精讲](engineering/architecture/module-boundaries.md) — 边界划在哪、由什么构成、如何验证；SOLID 篇的配套上游
+- [状态机知识库](engineering/architecture/state-machines/) — 十类状态机的分类坐标系与设计思想（一种一篇，见目录内索引）
+- [Godot 开发避坑清单](engineering/godot/pitfalls/) — 场景树 / 循环输入 / 架构 / 性能 / 导出 / 版本 / 2D 横版 共 7 类（见目录内索引）
 
 ## 约定
 
