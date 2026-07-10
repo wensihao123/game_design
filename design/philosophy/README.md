@@ -180,19 +180,32 @@ Case Studies
 ```text
 design/philosophy/
 ├── README.md
-├── design-principles.md
-├── player-first-design.md
-├── core-experience-and-fantasy.md
-├── clarity-and-feedback.md
-├── simplicity-and-depth.md
-├── choice-and-consequence.md
-├── challenge-and-fairness.md
-├── progression-and-motivation.md
-├── pacing-and-rhythm.md
-├── consistency-and-coherence.md
-├── accessibility-and-inclusivity.md
-├── ethical-design.md
-└── iteration-and-validation.md
+├── glossary.md
+├── principle-map.md
+├── conflict-resolution.md
+│
+├── foundation/
+│   ├── design-principles.md
+│   ├── player-first-design.md
+│   └── core-experience-and-fantasy.md
+│
+├── experience/
+│   ├── clarity-and-feedback.md
+│   ├── simplicity-and-depth.md
+│   ├── choice-and-consequence.md
+│   ├── challenge-and-fairness.md
+│   └── pacing-and-rhythm.md
+│
+├── long-term/
+│   ├── progression-and-motivation.md
+│   └── consistency-and-coherence.md
+│
+├── responsibility/
+│   ├── accessibility-and-inclusivity.md
+│   └── ethical-design.md
+│
+└── validation/
+    └── iteration-and-validation.md
 ```
 
 ---
