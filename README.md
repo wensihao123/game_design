@@ -14,15 +14,34 @@
 - **案例分析** — 对现有游戏的拆解与学习笔记
 - **灵感碎片** — 零散的点子、待验证的假设
 
-## 目录约定
+## 目录结构
 
 ```
 GameDesignDocs/
-├── README.md          # 本文件
-└── ...                # 按主题分目录存放 Markdown 文档
+├── README.md                  # 本文件（分类导航）
+├── design/                    # 玩法设计理念
+│   ├── philosophy/            #   核心体验、设计价值观
+│   ├── systems/              #   机制 / 系统 / 数值
+│   └── case-studies/         #   拆游戏的学习笔记
+├── engineering/               # 工程与架构实践
+│   ├── architecture/         #   SOLID、模块边界、状态机
+│   ├── patterns/             #   常用模式与反模式
+│   └── godot/                #   引擎特定技巧
+├── process/                   # 工作流、工具链、协作规范
+└── inbox/                     # 未归类的灵感碎片，定期整理
 ```
 
-> 文档统一使用 Markdown 编写，文件名建议用简短的 kebab-case slug（如 `combat-feel.md`）。
+## 文档索引
+
+### 工程与架构
+
+- [如何在 Godot 中践行 SOLID 思想](engineering/architecture/solid-in-godot.md) — 把 SOLID 五原则翻译为 Godot 原生语汇（节点 / 信号 / Resource / 场景组合）
+
+## 约定
+
+- 文档统一 Markdown 编写，文件名用简短 kebab-case slug（如 `solid-in-godot.md`），不加日期 / 序号。
+- 新增文档后，在上方「文档索引」手工登记一条，作为唯一导航入口。
+- 文档间用相对链接互相引用，表达知识关联。
 
 ## 使用说明
 
