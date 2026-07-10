@@ -38,6 +38,7 @@ GameDesignDocs/
 ### 设计理念
 
 - [Design Philosophy 设计理念](design/philosophy/README.md) — 设计工作的底层价值、判断原则与取舍框架（目录纲领）
+- [Systems Design 系统设计](design/systems/README.md) — 把理念转化为可执行系统规则的职责、结构与文档标准（目录纲领）
 
 ### 工程与架构
 
