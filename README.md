@@ -35,6 +35,10 @@ GameDesignDocs/
 
 ## 文档索引
 
+### 设计理念
+
+- [Design Philosophy 设计理念](design/philosophy/README.md) — 设计工作的底层价值、判断原则与取舍框架（目录纲领）
+
 ### 工程与架构
 
 - [如何在 Godot 中践行 SOLID 思想](engineering/architecture/solid-in-godot.md) — 把 SOLID 五原则翻译为 Godot 原生语汇（节点 / 信号 / Resource / 场景组合）
