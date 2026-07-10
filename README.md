@@ -39,8 +39,12 @@ GameDesignDocs/
 
 - [如何在 Godot 中践行 SOLID 思想](engineering/architecture/solid-in-godot.md) — 把 SOLID 五原则翻译为 Godot 原生语汇（节点 / 信号 / Resource / 场景组合）
 - [Godot 模块边界精讲](engineering/architecture/module-boundaries.md) — 边界划在哪、由什么构成、如何验证；SOLID 篇的配套上游
-- [状态机知识库](engineering/architecture/state-machines/) — 十类状态机的分类坐标系与设计思想（一种一篇，见目录内索引）
+- [状态机知识库](engineering/architecture/state-machines/fsm-index.md) — 十类状态机的分类坐标系与设计思想（一种一篇，见 FSM 索引）
 - [Godot 开发避坑清单](engineering/godot/pitfalls/) — 场景树 / 循环输入 / 架构 / 性能 / 导出 / 版本 / 2D 横版 共 7 类（见目录内索引）
+
+### 流程与协作
+
+- [Process 流程规范](process/README.md) — 想法到可发布版本的工作流、质量门槛、命名与协作约定（目录纲领）
 
 ## 约定
 
