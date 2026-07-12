@@ -4,7 +4,7 @@
 > Japanese Title: ゲーム発展国++  
 > Document Type: Core Experience Analysis  
 > Status: V1  
-> Path: `design/case-studies/game-dev-story/core-experience.md`  
+> Path: `design/case-studies/game-dev-story/02-core-experience.md`  
 > Analysis Version: 1.0  
 > Last Updated: 2026-07-11  
 > Analysis Method: Observable Design Analysis  
@@ -1997,31 +1997,31 @@
 
 后续文档将继续分析：
 
-### `core-loop.md`
+### `03-core-loop.md`
 
 ```text
 这些体验如何通过每个项目循环产生。
 ```
 
-### `game-flow.md`
+### `04-game-flow.md`
 
 ```text
 核心体验如何随公司阶段变化。
 ```
 
-### `system-map.md`
+### `05-system-map.md`
 
 ```text
 哪些系统和状态共同支撑这些体验。
 ```
 
-### `feedback-and-presentation.md`
+### `13-feedback-and-presentation.md`
 
 ```text
 像素动画、跳字、评论和销量如何强化情绪。
 ```
 
-### `strengths-and-tradeoffs.md`
+### `15-strengths-and-tradeoffs.md`
 
 ```text
 哪些体验设计最成功，哪些长期取舍不可避免。

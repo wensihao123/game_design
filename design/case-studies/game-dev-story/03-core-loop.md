@@ -4,7 +4,7 @@
 > Japanese Title: ゲーム発展国++  
 > Document Type: Core Loop Analysis  
 > Status: V1  
-> Path: `design/case-studies/game-dev-story/core-loop.md`  
+> Path: `design/case-studies/game-dev-story/03-core-loop.md`  
 > Analysis Version: 1.0  
 > Last Updated: 2026-07-11  
 > Analysis Method: Observable Design Analysis  
@@ -2233,31 +2233,31 @@ Industry：平台变化
 
 后续文档继续分析：
 
-### `game-flow.md`
+### `04-game-flow.md`
 
 ```text
 核心循环在公司不同阶段如何发生变化。
 ```
 
-### `system-map.md`
+### `05-system-map.md`
 
 ```text
 各循环由哪些状态、事件和系统连接。
 ```
 
-### `company-and-economy.md`
+### `06-company-and-economy.md`
 
 ```text
 现金流、工资、授权和扩张如何约束循环。
 ```
 
-### `game-development.md`
+### `08-game-development.md`
 
 ```text
 一个项目内部的生产阶段如何详细运作。
 ```
 
-### `reviews-sales-and-awards.md`
+### `11-reviews-sales-and-awards.md`
 
 ```text
 评论、销量和奖项如何完成循环结算。

@@ -4,7 +4,7 @@
 > Japanese Title: ゲーム発展国++  
 > Document Type: Reviews, Sales and Awards Analysis  
 > Status: V1  
-> Path: `design/case-studies/game-dev-story/reviews-sales-and-awards.md`  
+> Path: `design/case-studies/game-dev-story/11-reviews-sales-and-awards.md`  
 > Analysis Version: 1.0  
 > Last Updated: 2026-07-12  
 > Analysis Method: Observable Design Analysis  
@@ -1525,11 +1525,11 @@ Grand Prize / Game of the Year 是游戏最明确的高阶荣誉之一。
 
 后续文档继续分析：
 
-- `progression-and-endgame.md`：Hall of Fame、奖项、系列与主机如何形成长期目标；
-- `feedback-and-presentation.md`：评论揭晓、销量跳动、新闻和奖项如何表演；
-- `balance-and-randomness.md`：评分、销量与奖项的随机性如何保持公平；
-- `strengths-and-tradeoffs.md`：高密度结算的优势与后期常态化问题；
-- `reusable-patterns.md`：如何迁移多层评价与逐步揭晓结构。
+- `12-progression-and-endgame.md`：Hall of Fame、奖项、系列与主机如何形成长期目标；
+- `13-feedback-and-presentation.md`：评论揭晓、销量跳动、新闻和奖项如何表演；
+- `14-balance-and-randomness.md`：评分、销量与奖项的随机性如何保持公平；
+- `15-strengths-and-tradeoffs.md`：高密度结算的优势与后期常态化问题；
+- `16-reusable-patterns.md`：如何迁移多层评价与逐步揭晓结构。
 
 ---
 

@@ -4,7 +4,7 @@
 > Japanese Title: ゲーム発展国++  
 > Document Type: Game Development Analysis  
 > Status: V1  
-> Path: `design/case-studies/game-dev-story/game-development.md`  
+> Path: `design/case-studies/game-dev-story/08-game-development.md`  
 > Analysis Version: 1.0  
 > Last Updated: 2026-07-12  
 > Analysis Method: Observable Design Analysis  
@@ -1489,11 +1489,11 @@ Genre / Type 熟练度。
 
 后续文档继续分析：
 
-- `genres-types-and-discovery.md`：Genre、Type、组合与内容知识；
-- `platforms-and-market.md`：平台和市场如何把质量转化为销量；
-- `reviews-sales-and-awards.md`：评论、销量和奖项如何完成结算；
-- `feedback-and-presentation.md`：动画、跳字和仪式如何让开发可见；
-- `balance-and-randomness.md`：员工能力、随机事件和 Bug 如何影响公平与悬念。
+- `09-genres-types-and-discovery.md`：Genre、Type、组合与内容知识；
+- `10-platforms-and-market.md`：平台和市场如何把质量转化为销量；
+- `11-reviews-sales-and-awards.md`：评论、销量和奖项如何完成结算；
+- `13-feedback-and-presentation.md`：动画、跳字和仪式如何让开发可见；
+- `14-balance-and-randomness.md`：员工能力、随机事件和 Bug 如何影响公平与悬念。
 
 ---
 

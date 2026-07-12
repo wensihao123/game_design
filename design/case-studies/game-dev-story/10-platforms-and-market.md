@@ -4,7 +4,7 @@
 > Japanese Title: ゲーム発展国++  
 > Document Type: Platforms and Market Analysis  
 > Status: V1  
-> Path: `design/case-studies/game-dev-story/platforms-and-market.md`  
+> Path: `design/case-studies/game-dev-story/10-platforms-and-market.md`  
 > Analysis Version: 1.0  
 > Last Updated: 2026-07-12  
 > Analysis Method: Observable Design Analysis  
@@ -1532,11 +1532,11 @@ Platform Holder
 
 后续文档继续分析：
 
-- `reviews-sales-and-awards.md`：质量、市场与品牌如何进入最终结算；
-- `progression-and-endgame.md`：平台迁移和主机如何形成长期成长；
-- `feedback-and-presentation.md`：销量、排名和平台新闻如何呈现；
-- `balance-and-randomness.md`：用户量、宣传、粉丝和销售波动如何保持公平；
-- `strengths-and-tradeoffs.md`：平台时代设计的优势与长期代价。
+- `11-reviews-sales-and-awards.md`：质量、市场与品牌如何进入最终结算；
+- `12-progression-and-endgame.md`：平台迁移和主机如何形成长期成长；
+- `13-feedback-and-presentation.md`：销量、排名和平台新闻如何呈现；
+- `14-balance-and-randomness.md`：用户量、宣传、粉丝和销售波动如何保持公平；
+- `15-strengths-and-tradeoffs.md`：平台时代设计的优势与长期代价。
 
 ---
 

@@ -5,7 +5,7 @@
 > Developer / Publisher: Kairosoft  
 > Document Type: Instance Overview  
 > Status: V1  
-> Path: `design/case-studies/game-dev-story/overview.md`  
+> Path: `design/case-studies/game-dev-story/01-overview.md`  
 > Analysis Version: 1.0  
 > Last Updated: 2026-07-11  
 > Analysis Method: Observable Design Analysis  
@@ -2286,22 +2286,22 @@ Bug
 ```text
 game-dev-story/
 ├─ README.md
-├─ overview.md
-├─ core-experience.md
-├─ core-loop.md
-├─ game-flow.md
-├─ system-map.md
-├─ company-and-economy.md
-├─ staff-and-careers.md
-├─ game-development.md
-├─ genres-types-and-discovery.md
-├─ platforms-and-market.md
-├─ reviews-sales-and-awards.md
-├─ progression-and-endgame.md
-├─ feedback-and-presentation.md
-├─ balance-and-randomness.md
-├─ strengths-and-tradeoffs.md
-└─ reusable-patterns.md
+├─ 01-overview.md
+├─ 02-core-experience.md
+├─ 03-core-loop.md
+├─ 04-game-flow.md
+├─ 05-system-map.md
+├─ 06-company-and-economy.md
+├─ 07-staff-and-careers.md
+├─ 08-game-development.md
+├─ 09-genres-types-and-discovery.md
+├─ 10-platforms-and-market.md
+├─ 11-reviews-sales-and-awards.md
+├─ 12-progression-and-endgame.md
+├─ 13-feedback-and-presentation.md
+├─ 14-balance-and-randomness.md
+├─ 15-strengths-and-tradeoffs.md
+└─ 16-reusable-patterns.md
 ```
 
 ---
@@ -2310,22 +2310,22 @@ game-dev-story/
 
 建议按照以下顺序继续：
 
-1. `core-experience.md`  
+1. `02-core-experience.md`  
    深入分析玩家幻想、情绪、身份升级和主题压缩。
 
-2. `core-loop.md`  
+2. `03-core-loop.md`  
    深入分析外包、自研、开发、评论、销售和再投资循环。
 
-3. `game-flow.md`  
+3. `04-game-flow.md`  
    分析公司从创业到自研主机的完整阶段变化。
 
-4. `system-map.md`  
+4. `05-system-map.md`  
    明确每个系统的状态、输入、输出和耦合。
 
-5. `company-and-economy.md`  
+5. `06-company-and-economy.md`  
    分析现金流、工资、授权、扩张和恢复机制。
 
-6. `staff-and-careers.md`  
+6. `07-staff-and-careers.md`  
    分析员工属性、职业、训练、转职和长期人才资本。
 
 之后再进入内容、平台、市场、评价与综合模式提取。

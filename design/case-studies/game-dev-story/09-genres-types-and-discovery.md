@@ -4,7 +4,7 @@
 > Japanese Title: ゲーム発展国++  
 > Document Type: Genre, Type and Discovery Analysis  
 > Status: V1  
-> Path: `design/case-studies/game-dev-story/genres-types-and-discovery.md`  
+> Path: `design/case-studies/game-dev-story/09-genres-types-and-discovery.md`  
 > Analysis Version: 1.0  
 > Last Updated: 2026-07-12  
 > Analysis Method: Observable Design Analysis  
@@ -1501,11 +1501,11 @@ Popularity 可随：
 
 后续文档继续分析：
 
-- `platforms-and-market.md`：内容如何在不同平台和市场中产生商业结果；
-- `reviews-sales-and-awards.md`：组合、质量和市场如何进入评论与销量；
-- `progression-and-endgame.md`：内容解锁与等级如何构成长线目标；
-- `balance-and-randomness.md`：固定相性、随机结果和公平感；
-- `reusable-patterns.md`：如何把两维配方系统迁移到其他类型。
+- `10-platforms-and-market.md`：内容如何在不同平台和市场中产生商业结果；
+- `11-reviews-sales-and-awards.md`：组合、质量和市场如何进入评论与销量；
+- `12-progression-and-endgame.md`：内容解锁与等级如何构成长线目标；
+- `14-balance-and-randomness.md`：固定相性、随机结果和公平感；
+- `16-reusable-patterns.md`：如何把两维配方系统迁移到其他类型。
 
 ---
 

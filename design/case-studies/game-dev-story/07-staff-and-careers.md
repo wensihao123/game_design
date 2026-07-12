@@ -4,7 +4,7 @@
 > Japanese Title: ゲーム発展国++  
 > Document Type: Staff and Careers Analysis  
 > Status: V1  
-> Path: `design/case-studies/game-dev-story/staff-and-careers.md`  
+> Path: `design/case-studies/game-dev-story/07-staff-and-careers.md`  
 > Analysis Version: 1.0  
 > Last Updated: 2026-07-12  
 > Analysis Method: Observable Design Analysis  
@@ -1623,11 +1623,11 @@ Hardware Engineer 和 Hacker 使员工培养在后期仍有目标。
 
 后续文档继续分析：
 
-- `game-development.md`：员工能力如何转化为项目属性和 Bug；
-- `genres-types-and-discovery.md`：职业与 Training 如何打开内容空间；
-- `platforms-and-market.md`：员工能力如何与平台投资共同决定回报；
-- `progression-and-endgame.md`：职业路线如何汇合到自研主机；
-- `balance-and-randomness.md`：员工属性、体力和随机事件如何影响公平感。
+- `08-game-development.md`：员工能力如何转化为项目属性和 Bug；
+- `09-genres-types-and-discovery.md`：职业与 Training 如何打开内容空间；
+- `10-platforms-and-market.md`：员工能力如何与平台投资共同决定回报；
+- `12-progression-and-endgame.md`：职业路线如何汇合到自研主机；
+- `14-balance-and-randomness.md`：员工属性、体力和随机事件如何影响公平感。
 
 ---
 

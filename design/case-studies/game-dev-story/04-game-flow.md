@@ -4,7 +4,7 @@
 > Japanese Title: ゲーム発展国++  
 > Document Type: Game Flow Analysis  
 > Status: V1  
-> Path: `design/case-studies/game-dev-story/game-flow.md`  
+> Path: `design/case-studies/game-dev-story/04-game-flow.md`  
 > Analysis Version: 1.0  
 > Last Updated: 2026-07-11  
 > Analysis Method: Observable Design Analysis  
@@ -1864,31 +1864,31 @@ Announced
 
 后续文档继续分析：
 
-### `system-map.md`
+### `05-system-map.md`
 
 ```text
 每个阶段由哪些系统和状态支撑。
 ```
 
-### `company-and-economy.md`
+### `06-company-and-economy.md`
 
 ```text
 现金、工资、扩张和授权如何形成阶段压力。
 ```
 
-### `staff-and-careers.md`
+### `07-staff-and-careers.md`
 
 ```text
 员工如何从基础生产单位成长为终局条件。
 ```
 
-### `platforms-and-market.md`
+### `10-platforms-and-market.md`
 
 ```text
 平台生命周期如何推动行业阶段。
 ```
 
-### `progression-and-endgame.md`
+### `12-progression-and-endgame.md`
 
 ```text
 所有成长轨道如何汇合到终局。

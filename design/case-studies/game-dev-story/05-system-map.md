@@ -4,7 +4,7 @@
 > Japanese Title: ゲーム発展国++  
 > Document Type: System Map  
 > Status: V1  
-> Path: `design/case-studies/game-dev-story/system-map.md`  
+> Path: `design/case-studies/game-dev-story/05-system-map.md`  
 > Analysis Version: 1.0  
 > Last Updated: 2026-07-11  
 > Analysis Method: Observable Design Analysis  
@@ -1440,12 +1440,12 @@ Identity Escalation
 
 后续文档将继续深入：
 
-- `company-and-economy.md`：现金、工资、外包、授权和扩张；
-- `staff-and-careers.md`：员工、职业、训练和长期人才资本；
-- `game-development.md`：项目阶段、属性、Bug 和随机事件；
-- `genres-types-and-discovery.md`：组合、知识、专精和探索；
-- `platforms-and-market.md`：平台生命周期、宣传和市场；
-- `reviews-sales-and-awards.md`：评论、销量、奖项和品牌回流。
+- `06-company-and-economy.md`：现金、工资、外包、授权和扩张；
+- `07-staff-and-careers.md`：员工、职业、训练和长期人才资本；
+- `08-game-development.md`：项目阶段、属性、Bug 和随机事件；
+- `09-genres-types-and-discovery.md`：组合、知识、专精和探索；
+- `10-platforms-and-market.md`：平台生命周期、宣传和市场；
+- `11-reviews-sales-and-awards.md`：评论、销量、奖项和品牌回流。
 
 ---
 

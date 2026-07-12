@@ -4,7 +4,7 @@
 > Japanese Title: ゲーム発展国++  
 > Document Type: Company and Economy Analysis  
 > Status: V1  
-> Path: `design/case-studies/game-dev-story/company-and-economy.md`  
+> Path: `design/case-studies/game-dev-story/06-company-and-economy.md`  
 > Analysis Version: 1.0  
 > Last Updated: 2026-07-12  
 > Analysis Method: Observable Design Analysis  
@@ -1574,11 +1574,11 @@ flowchart TD
 
 后续文档继续分析：
 
-- `staff-and-careers.md`：人才资本、工资、训练和职业；
-- `game-development.md`：项目成本如何转化为作品属性；
-- `platforms-and-market.md`：授权、用户量、宣传和市场回报；
-- `reviews-sales-and-awards.md`：结果如何转化为收入、粉丝和品牌；
-- `progression-and-endgame.md`：经济与其他成长轨道如何汇合。
+- `07-staff-and-careers.md`：人才资本、工资、训练和职业；
+- `08-game-development.md`：项目成本如何转化为作品属性；
+- `10-platforms-and-market.md`：授权、用户量、宣传和市场回报；
+- `11-reviews-sales-and-awards.md`：结果如何转化为收入、粉丝和品牌；
+- `12-progression-and-endgame.md`：经济与其他成长轨道如何汇合。
 
 ---
 
