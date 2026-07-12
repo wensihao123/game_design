@@ -40,6 +40,10 @@ GameDesignDocs/
 - [Design Philosophy 设计理念](design/philosophy/README.md) — 设计工作的底层价值、判断原则与取舍框架（目录纲领）
 - [Systems Design 系统设计](design/systems/README.md) — 把理念转化为可执行系统规则的职责、结构与文档标准（目录纲领）
 
+### 案例分析
+
+- [《游戏发展国》实例分析](design/case-studies/game-dev-story/README.md) — 用可观察设计分析拆解 Kairosoft《Game Dev Story》的项目制循环、复利结构与中后期局限（进行中）
+
 ### 工程与架构
 
 - [如何在 Godot 中践行 SOLID 思想](engineering/architecture/solid-in-godot.md) — 把 SOLID 五原则翻译为 Godot 原生语汇（节点 / 信号 / Resource / 场景组合）
