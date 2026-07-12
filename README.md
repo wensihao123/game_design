@@ -42,6 +42,7 @@ GameDesignDocs/
 
 ### 案例分析
 
+- [Case Studies 案例分析](design/case-studies/README.md) — 案例分析层的定位、可观察设计分析方法、证据分级与目录组织（目录纲领）
 - [《游戏发展国》实例分析](design/case-studies/game-dev-story/README.md) — 用可观察设计分析拆解 Kairosoft《Game Dev Story》的项目制循环、复利结构与中后期局限
 
 ### 工程与架构
